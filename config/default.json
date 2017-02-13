@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mysql": "mysql://root:@localhost:3306/chatBackend",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "HUIxJtCE3T5G6HsVymKsX/ip2GcT5FiSs8/6O+IwyAO9ZFxw+Yjvjz3bcMo6GQHsTNt2sdz+ktcxfJkZolZYwg=="
+    },
+    "local": {}
+  }
+}
